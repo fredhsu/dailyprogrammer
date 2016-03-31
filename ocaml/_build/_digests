@@ -1,0 +1,7 @@
+"Rule: ocaml: ml & cmi -> cmx & o (%=easy254 )": "a\014\002·Ò\023Ú,¡®I­Â\135P\001"
+"Resource: /Users/fredlhsu/code/rdailyprogrammer/ocaml/254easy.ml": "\132\024çìÂ:ß\147Ó>\144Ø\025A\127\026"
+"Rule: ocaml dependencies ml (%=254easy )": "6\148+s'­û\130û\n¸wK\012\019&"
+"Rule: ocaml: ml -> cmo & cmi (%=easy254 )": "\005\132s\\Õ\002\152¢·£\015½·\011J¯"
+"Rule: ocaml: cmx* & o* -> native (%=easy254 )": "ø\002üîo5Ey\134âcâ\1532LÌ"
+"Rule: ocaml dependencies ml (%=easy254 )": "ÁJKñüèj:ñjú\004+\149=\n"
+"Resource: /Users/fredlhsu/code/rdailyprogrammer/ocaml/easy254.ml": "õÉ¡j&1ÜK\027\019\130`WsM1"

@@ -1,0 +1,789 @@
+"easy254.ml" 4 33 37 "easy254.ml" 4 33 38
+type(
+  int
+)
+ident(
+  def n "easy254.ml" 5 44 44 "easy254.ml" 1 0 -1
+)
+"easy254.ml" 4 33 41 "easy254.ml" 4 33 43
+type(
+  int
+)
+"easy254.ml" 5 44 48 "easy254.ml" 5 44 53
+type(
+  (int * int) list
+)
+ident(
+  def pairs "easy254.ml" 6 82 82 "easy254.ml" 1 0 -1
+)
+"easy254.ml" 5 44 58 "easy254.ml" 5 44 59
+type(
+  int
+)
+"easy254.ml" 5 44 60 "easy254.ml" 5 44 61
+type(
+  int
+)
+"easy254.ml" 5 44 58 "easy254.ml" 5 44 61
+type(
+  int * int
+)
+"easy254.ml" 5 44 64 "easy254.ml" 5 44 65
+type(
+  int
+)
+"easy254.ml" 5 44 66 "easy254.ml" 5 44 67
+type(
+  int
+)
+"easy254.ml" 5 44 64 "easy254.ml" 5 44 67
+type(
+  int * int
+)
+"easy254.ml" 5 44 70 "easy254.ml" 5 44 71
+type(
+  int
+)
+"easy254.ml" 5 44 72 "easy254.ml" 5 44 73
+type(
+  int
+)
+"easy254.ml" 5 44 70 "easy254.ml" 5 44 73
+type(
+  int * int
+)
+"easy254.ml" 5 44 76 "easy254.ml" 5 44 77
+type(
+  int
+)
+"easy254.ml" 5 44 78 "easy254.ml" 5 44 79
+type(
+  int
+)
+"easy254.ml" 5 44 76 "easy254.ml" 5 44 79
+type(
+  int * int
+)
+"easy254.ml" 5 44 75 "easy254.ml" 5 44 80
+type(
+  (int * int) list
+)
+"easy254.ml" 5 44 69 "easy254.ml" 5 44 80
+type(
+  (int * int) list
+)
+"easy254.ml" 5 44 63 "easy254.ml" 5 44 80
+type(
+  (int * int) list
+)
+"easy254.ml" 5 44 57 "easy254.ml" 5 44 80
+type(
+  (int * int) list
+)
+"easy254.ml" 5 44 56 "easy254.ml" 5 44 81
+type(
+  (int * int) list
+)
+"easy254.ml" 6 82 90 "easy254.ml" 6 82 105
+type(
+  int -> bool list
+)
+ident(
+  def create_switches "easy254.ml" 6 82 82 "easy254.ml" 1 0 -1
+)
+"easy254.ml" 6 82 106 "easy254.ml" 6 82 107
+type(
+  int
+)
+ident(
+  def n "easy254.ml" 7 110 114 "easy254.ml" 7 110 166
+)
+"easy254.ml" 7 110 117 "easy254.ml" 7 110 118
+type(
+  int
+)
+ident(
+  int_ref n "easy254.ml" 6 82 106 "easy254.ml" 6 82 107
+)
+"easy254.ml" 7 110 119 "easy254.ml" 7 110 121
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"easy254.ml" 7 110 122 "easy254.ml" 7 110 123
+type(
+  int
+)
+"easy254.ml" 7 110 117 "easy254.ml" 7 110 123
+type(
+  bool
+)
+"easy254.ml" 7 110 129 "easy254.ml" 7 110 131
+type(
+  bool list
+)
+"easy254.ml" 7 110 137 "easy254.ml" 7 110 142
+type(
+  bool
+)
+"easy254.ml" 7 110 146 "easy254.ml" 7 110 161
+type(
+  int -> bool list
+)
+ident(
+  int_ref create_switches "easy254.ml" 6 82 90 "easy254.ml" 6 82 105
+)
+"easy254.ml" 7 110 162 "easy254.ml" 7 110 163
+type(
+  int
+)
+ident(
+  int_ref n "easy254.ml" 6 82 106 "easy254.ml" 6 82 107
+)
+"easy254.ml" 7 110 163 "easy254.ml" 7 110 164
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"easy254.ml" 7 110 164 "easy254.ml" 7 110 165
+type(
+  int
+)
+"easy254.ml" 7 110 162 "easy254.ml" 7 110 165
+type(
+  int
+)
+"easy254.ml" 7 110 146 "easy254.ml" 7 110 166
+call(
+  stack
+)
+type(
+  bool list
+)
+"easy254.ml" 7 110 137 "easy254.ml" 7 110 166
+type(
+  bool list
+)
+"easy254.ml" 7 110 114 "easy254.ml" 7 110 166
+type(
+  bool list
+)
+"easy254.ml" 6 82 106 "easy254.ml" 7 110 166
+type(
+  int -> bool list
+)
+"easy254.ml" 8 168 176 "easy254.ml" 8 168 186
+type(
+  int -> int -> int -> bool list
+)
+ident(
+  def create_run "easy254.ml" 8 168 168 "easy254.ml" 1 0 -1
+)
+"easy254.ml" 8 168 187 "easy254.ml" 8 168 192
+type(
+  int
+)
+ident(
+  def start "easy254.ml" 8 168 193 "easy254.ml" 16 482 532
+)
+"easy254.ml" 8 168 193 "easy254.ml" 8 168 199
+type(
+  int
+)
+ident(
+  def finish "easy254.ml" 8 168 200 "easy254.ml" 16 482 532
+)
+"easy254.ml" 8 168 200 "easy254.ml" 8 168 201
+type(
+  int
+)
+ident(
+  def n "easy254.ml" 9 204 208 "easy254.ml" 16 482 532
+)
+"easy254.ml" 9 204 211 "easy254.ml" 9 204 212
+type(
+  int
+)
+ident(
+  int_ref n "easy254.ml" 8 168 200 "easy254.ml" 8 168 201
+)
+"easy254.ml" 9 204 213 "easy254.ml" 9 204 215
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"easy254.ml" 9 204 216 "easy254.ml" 9 204 217
+type(
+  int
+)
+"easy254.ml" 9 204 211 "easy254.ml" 9 204 217
+type(
+  bool
+)
+"easy254.ml" 9 204 223 "easy254.ml" 9 204 225
+type(
+  bool list
+)
+"easy254.ml" 10 231 242 "easy254.ml" 10 231 247
+type(
+  int
+)
+ident(
+  int_ref start "easy254.ml" 8 168 187 "easy254.ml" 8 168 192
+)
+"easy254.ml" 10 231 248 "easy254.ml" 10 231 249
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"easy254.ml" 10 231 250 "easy254.ml" 10 231 256
+type(
+  int
+)
+ident(
+  int_ref finish "easy254.ml" 8 168 193 "easy254.ml" 8 168 199
+)
+"easy254.ml" 10 231 242 "easy254.ml" 10 231 256
+type(
+  bool
+)
+"easy254.ml" 10 231 262 "easy254.ml" 10 231 272
+type(
+  int -> int -> int -> bool list
+)
+ident(
+  int_ref create_run "easy254.ml" 8 168 176 "easy254.ml" 8 168 186
+)
+"easy254.ml" 10 231 273 "easy254.ml" 10 231 279
+type(
+  int
+)
+ident(
+  int_ref finish "easy254.ml" 8 168 193 "easy254.ml" 8 168 199
+)
+"easy254.ml" 10 231 280 "easy254.ml" 10 231 285
+type(
+  int
+)
+ident(
+  int_ref start "easy254.ml" 8 168 187 "easy254.ml" 8 168 192
+)
+"easy254.ml" 10 231 286 "easy254.ml" 10 231 287
+type(
+  int
+)
+ident(
+  int_ref n "easy254.ml" 8 168 200 "easy254.ml" 8 168 201
+)
+"easy254.ml" 10 231 262 "easy254.ml" 10 231 287
+call(
+  tail
+)
+type(
+  bool list
+)
+"easy254.ml" 11 288 304 "easy254.ml" 11 288 309
+type(
+  int
+)
+ident(
+  int_ref start "easy254.ml" 8 168 187 "easy254.ml" 8 168 192
+)
+"easy254.ml" 11 288 310 "easy254.ml" 11 288 311
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"easy254.ml" 11 288 312 "easy254.ml" 11 288 313
+type(
+  int
+)
+"easy254.ml" 11 288 304 "easy254.ml" 11 288 313
+type(
+  bool
+)
+"easy254.ml" 12 319 331 "easy254.ml" 12 319 336
+type(
+  bool
+)
+"easy254.ml" 12 319 340 "easy254.ml" 12 319 350
+type(
+  int -> int -> int -> bool list
+)
+ident(
+  int_ref create_run "easy254.ml" 8 168 176 "easy254.ml" 8 168 186
+)
+"easy254.ml" 12 319 352 "easy254.ml" 12 319 357
+type(
+  int
+)
+ident(
+  int_ref start "easy254.ml" 8 168 187 "easy254.ml" 8 168 192
+)
+"easy254.ml" 12 319 357 "easy254.ml" 12 319 358
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"easy254.ml" 12 319 358 "easy254.ml" 12 319 359
+type(
+  int
+)
+"easy254.ml" 12 319 352 "easy254.ml" 12 319 359
+type(
+  int
+)
+"easy254.ml" 12 319 362 "easy254.ml" 12 319 368
+type(
+  int
+)
+ident(
+  int_ref finish "easy254.ml" 8 168 193 "easy254.ml" 8 168 199
+)
+"easy254.ml" 12 319 368 "easy254.ml" 12 319 369
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"easy254.ml" 12 319 369 "easy254.ml" 12 319 370
+type(
+  int
+)
+"easy254.ml" 12 319 362 "easy254.ml" 12 319 370
+type(
+  int
+)
+"easy254.ml" 12 319 373 "easy254.ml" 12 319 374
+type(
+  int
+)
+ident(
+  int_ref n "easy254.ml" 8 168 200 "easy254.ml" 8 168 201
+)
+"easy254.ml" 12 319 374 "easy254.ml" 12 319 375
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"easy254.ml" 12 319 375 "easy254.ml" 12 319 376
+type(
+  int
+)
+"easy254.ml" 12 319 373 "easy254.ml" 12 319 376
+type(
+  int
+)
+"easy254.ml" 12 319 340 "easy254.ml" 12 319 377
+call(
+  stack
+)
+type(
+  bool list
+)
+"easy254.ml" 12 319 331 "easy254.ml" 12 319 377
+type(
+  bool list
+)
+"easy254.ml" 13 378 394 "easy254.ml" 13 378 400
+type(
+  int
+)
+ident(
+  int_ref finish "easy254.ml" 8 168 193 "easy254.ml" 8 168 199
+)
+"easy254.ml" 13 378 401 "easy254.ml" 13 378 403
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"easy254.ml" 13 378 404 "easy254.ml" 13 378 405
+type(
+  int
+)
+"easy254.ml" 13 378 394 "easy254.ml" 13 378 405
+type(
+  bool
+)
+"easy254.ml" 14 411 423 "easy254.ml" 14 411 427
+type(
+  bool
+)
+"easy254.ml" 14 411 431 "easy254.ml" 14 411 441
+type(
+  int -> int -> int -> bool list
+)
+ident(
+  int_ref create_run "easy254.ml" 8 168 176 "easy254.ml" 8 168 186
+)
+"easy254.ml" 14 411 443 "easy254.ml" 14 411 448
+type(
+  int
+)
+ident(
+  int_ref start "easy254.ml" 8 168 187 "easy254.ml" 8 168 192
+)
+"easy254.ml" 14 411 448 "easy254.ml" 14 411 449
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"easy254.ml" 14 411 449 "easy254.ml" 14 411 450
+type(
+  int
+)
+"easy254.ml" 14 411 443 "easy254.ml" 14 411 450
+type(
+  int
+)
+"easy254.ml" 14 411 453 "easy254.ml" 14 411 459
+type(
+  int
+)
+ident(
+  int_ref finish "easy254.ml" 8 168 193 "easy254.ml" 8 168 199
+)
+"easy254.ml" 14 411 459 "easy254.ml" 14 411 460
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"easy254.ml" 14 411 460 "easy254.ml" 14 411 461
+type(
+  int
+)
+"easy254.ml" 14 411 453 "easy254.ml" 14 411 461
+type(
+  int
+)
+"easy254.ml" 14 411 464 "easy254.ml" 14 411 465
+type(
+  int
+)
+ident(
+  int_ref n "easy254.ml" 8 168 200 "easy254.ml" 8 168 201
+)
+"easy254.ml" 14 411 465 "easy254.ml" 14 411 466
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"easy254.ml" 14 411 466 "easy254.ml" 14 411 467
+type(
+  int
+)
+"easy254.ml" 14 411 464 "easy254.ml" 14 411 467
+type(
+  int
+)
+"easy254.ml" 14 411 431 "easy254.ml" 14 411 468
+call(
+  stack
+)
+type(
+  bool list
+)
+"easy254.ml" 14 411 423 "easy254.ml" 14 411 468
+type(
+  bool list
+)
+"easy254.ml" 16 482 494 "easy254.ml" 16 482 499
+type(
+  bool
+)
+"easy254.ml" 16 482 503 "easy254.ml" 16 482 513
+type(
+  int -> int -> int -> bool list
+)
+ident(
+  int_ref create_run "easy254.ml" 8 168 176 "easy254.ml" 8 168 186
+)
+"easy254.ml" 16 482 514 "easy254.ml" 16 482 519
+type(
+  int
+)
+ident(
+  int_ref start "easy254.ml" 8 168 187 "easy254.ml" 8 168 192
+)
+"easy254.ml" 16 482 520 "easy254.ml" 16 482 526
+type(
+  int
+)
+ident(
+  int_ref finish "easy254.ml" 8 168 193 "easy254.ml" 8 168 199
+)
+"easy254.ml" 16 482 528 "easy254.ml" 16 482 529
+type(
+  int
+)
+ident(
+  int_ref n "easy254.ml" 8 168 200 "easy254.ml" 8 168 201
+)
+"easy254.ml" 16 482 529 "easy254.ml" 16 482 530
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"easy254.ml" 16 482 530 "easy254.ml" 16 482 531
+type(
+  int
+)
+"easy254.ml" 16 482 528 "easy254.ml" 16 482 531
+type(
+  int
+)
+"easy254.ml" 16 482 503 "easy254.ml" 16 482 532
+call(
+  stack
+)
+type(
+  bool list
+)
+"easy254.ml" 16 482 494 "easy254.ml" 16 482 532
+type(
+  bool list
+)
+"easy254.ml" 13 378 391 "easy254.ml" 16 482 532
+type(
+  bool list
+)
+"easy254.ml" 11 288 301 "easy254.ml" 16 482 532
+type(
+  bool list
+)
+"easy254.ml" 10 231 239 "easy254.ml" 16 482 532
+type(
+  bool list
+)
+"easy254.ml" 9 204 208 "easy254.ml" 16 482 532
+type(
+  bool list
+)
+"easy254.ml" 8 168 200 "easy254.ml" 16 482 532
+type(
+  int -> bool list
+)
+"easy254.ml" 8 168 193 "easy254.ml" 16 482 532
+type(
+  int -> int -> bool list
+)
+"easy254.ml" 8 168 187 "easy254.ml" 16 482 532
+type(
+  int -> int -> int -> bool list
+)
+"easy254.ml" 18 542 550 "easy254.ml" 18 542 556
+type(
+  'a -> 'a -> 'b -> 'c list -> f:('c -> 'd) -> 'd list
+)
+ident(
+  def toggle "easy254.ml" 18 542 542 "easy254.ml" 1 0 -1
+)
+"easy254.ml" 18 542 557 "easy254.ml" 18 542 562
+type(
+  'a
+)
+ident(
+  def start "easy254.ml" 18 542 563 "easy254.ml" 20 637 654
+)
+"easy254.ml" 18 542 563 "easy254.ml" 18 542 569
+type(
+  'a
+)
+ident(
+  def finish "easy254.ml" 18 542 570 "easy254.ml" 20 637 654
+)
+"easy254.ml" 18 542 570 "easy254.ml" 18 542 578
+type(
+  'b
+)
+ident(
+  def switches "easy254.ml" 19 581 585 "easy254.ml" 20 637 654
+)
+"easy254.ml" 19 581 588 "easy254.ml" 19 581 593
+type(
+  'a
+)
+ident(
+  int_ref start "easy254.ml" 18 542 557 "easy254.ml" 18 542 562
+)
+"easy254.ml" 19 581 594 "easy254.ml" 19 581 595
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"easy254.ml" 19 581 596 "easy254.ml" 19 581 602
+type(
+  'a
+)
+ident(
+  int_ref finish "easy254.ml" 18 542 563 "easy254.ml" 18 542 569
+)
+"easy254.ml" 19 581 588 "easy254.ml" 19 581 602
+type(
+  bool
+)
+"easy254.ml" 19 581 608 "easy254.ml" 19 581 614
+type(
+  'a -> 'a -> 'b -> 'c list -> f:('c -> 'd) -> 'd list
+)
+ident(
+  int_ref toggle "easy254.ml" 18 542 550 "easy254.ml" 18 542 556
+)
+"easy254.ml" 19 581 615 "easy254.ml" 19 581 621
+type(
+  'a
+)
+ident(
+  int_ref finish "easy254.ml" 18 542 563 "easy254.ml" 18 542 569
+)
+"easy254.ml" 19 581 622 "easy254.ml" 19 581 627
+type(
+  'a
+)
+ident(
+  int_ref start "easy254.ml" 18 542 557 "easy254.ml" 18 542 562
+)
+"easy254.ml" 19 581 628 "easy254.ml" 19 581 636
+type(
+  'b
+)
+ident(
+  int_ref switches "easy254.ml" 18 542 570 "easy254.ml" 18 542 578
+)
+"easy254.ml" 19 581 608 "easy254.ml" 19 581 636
+call(
+  tail
+)
+type(
+  'c list -> f:('c -> 'd) -> 'd list
+)
+"easy254.ml" 20 637 646 "easy254.ml" 20 637 654
+type(
+  'c list -> f:('c -> 'd) -> 'd list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"easy254.ml" 19 581 585 "easy254.ml" 20 637 654
+type(
+  'c list -> f:('c -> 'd) -> 'd list
+)
+"easy254.ml" 18 542 570 "easy254.ml" 20 637 654
+type(
+  'b -> 'c list -> f:('c -> 'd) -> 'd list
+)
+"easy254.ml" 18 542 563 "easy254.ml" 20 637 654
+type(
+  'a -> 'b -> 'c list -> f:('c -> 'd) -> 'd list
+)
+"easy254.ml" 18 542 557 "easy254.ml" 20 637 654
+type(
+  'a -> 'a -> 'b -> 'c list -> f:('c -> 'd) -> 'd list
+)
+"easy254.ml" 22 656 660 "easy254.ml" 22 656 662
+type(
+  unit
+)
+"easy254.ml" 23 665 673 "easy254.ml" 23 665 675
+type(
+  bool list
+)
+ident(
+  def sw "easy254.ml" 24 699 703 "easy254.ml" 24 699 733
+)
+"easy254.ml" 23 665 678 "easy254.ml" 23 665 688
+type(
+  int -> int -> int -> bool list
+)
+ident(
+  int_ref create_run "easy254.ml" 8 168 176 "easy254.ml" 8 168 186
+)
+"easy254.ml" 23 665 689 "easy254.ml" 23 665 690
+type(
+  int
+)
+"easy254.ml" 23 665 691 "easy254.ml" 23 665 692
+type(
+  int
+)
+"easy254.ml" 23 665 693 "easy254.ml" 23 665 695
+type(
+  int
+)
+"easy254.ml" 23 665 678 "easy254.ml" 23 665 695
+call(
+  stack
+)
+type(
+  bool list
+)
+"easy254.ml" 24 699 703 "easy254.ml" 24 699 712
+type(
+  bool list -> f:(bool -> unit) -> unit
+)
+ident(
+  ext_ref Core.Std.List.iter
+)
+"easy254.ml" 24 699 717 "easy254.ml" 24 699 723
+type(
+  (bool -> unit, out_channel, unit) format -> bool -> unit
+)
+ident(
+  ext_ref Core.Std.Printf.printf
+)
+"easy254.ml" 24 699 724 "easy254.ml" 24 699 729
+type(
+  (bool -> unit, out_channel, unit) format
+)
+"easy254.ml" 24 699 717 "easy254.ml" 24 699 729
+call(
+  stack
+)
+type(
+  bool -> unit
+)
+"easy254.ml" 24 699 731 "easy254.ml" 24 699 733
+type(
+  bool list
+)
+ident(
+  int_ref sw "easy254.ml" 23 665 673 "easy254.ml" 23 665 675
+)
+"easy254.ml" 24 699 703 "easy254.ml" 24 699 733
+call(
+  stack
+)
+type(
+  unit
+)
+"easy254.ml" 23 665 669 "easy254.ml" 24 699 733
+type(
+  unit
+)

@@ -1,0 +1,6 @@
+[package]
+name = "258easy"
+version = "0.1.0"
+authors = ["Fred Hsu <fredlhsu@aristanetworks.com>"]
+
+[dependencies]

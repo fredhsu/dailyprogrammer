@@ -1,0 +1,178 @@
+"254easy.ml" 3 21 25 "254easy.ml" 3 21 26
+type(
+  int
+)
+ident(
+  def n "254easy.ml" 4 32 32 "254easy.ml" 1 0 -1
+)
+"254easy.ml" 3 21 29 "254easy.ml" 3 21 31
+type(
+  int
+)
+"254easy.ml" 4 32 36 "254easy.ml" 4 32 41
+type(
+  (int * int) list
+)
+ident(
+  def pairs "254easy.ml" 5 70 70 "254easy.ml" 1 0 -1
+)
+"254easy.ml" 4 32 46 "254easy.ml" 4 32 47
+type(
+  int
+)
+"254easy.ml" 4 32 48 "254easy.ml" 4 32 49
+type(
+  int
+)
+"254easy.ml" 4 32 46 "254easy.ml" 4 32 49
+type(
+  int * int
+)
+"254easy.ml" 4 32 52 "254easy.ml" 4 32 53
+type(
+  int
+)
+"254easy.ml" 4 32 54 "254easy.ml" 4 32 55
+type(
+  int
+)
+"254easy.ml" 4 32 52 "254easy.ml" 4 32 55
+type(
+  int * int
+)
+"254easy.ml" 4 32 58 "254easy.ml" 4 32 59
+type(
+  int
+)
+"254easy.ml" 4 32 60 "254easy.ml" 4 32 61
+type(
+  int
+)
+"254easy.ml" 4 32 58 "254easy.ml" 4 32 61
+type(
+  int * int
+)
+"254easy.ml" 4 32 64 "254easy.ml" 4 32 65
+type(
+  int
+)
+"254easy.ml" 4 32 66 "254easy.ml" 4 32 67
+type(
+  int
+)
+"254easy.ml" 4 32 64 "254easy.ml" 4 32 67
+type(
+  int * int
+)
+"254easy.ml" 4 32 63 "254easy.ml" 4 32 68
+type(
+  (int * int) list
+)
+"254easy.ml" 4 32 57 "254easy.ml" 4 32 68
+type(
+  (int * int) list
+)
+"254easy.ml" 4 32 51 "254easy.ml" 4 32 68
+type(
+  (int * int) list
+)
+"254easy.ml" 4 32 45 "254easy.ml" 4 32 68
+type(
+  (int * int) list
+)
+"254easy.ml" 4 32 44 "254easy.ml" 4 32 69
+type(
+  (int * int) list
+)
+"254easy.ml" 5 70 78 "254easy.ml" 5 70 93
+type(
+  'a list -> int list
+)
+ident(
+  def create_switches "254easy.ml" 5 70 70 "254easy.ml" 1 0 -1
+)
+"254easy.ml" 5 70 94 "254easy.ml" 5 70 98
+type(
+  'a list
+)
+ident(
+  def list "254easy.ml" 6 101 105 "254easy.ml" 8 136 177
+)
+"254easy.ml" 6 101 111 "254easy.ml" 6 101 115
+type(
+  'a list
+)
+ident(
+  int_ref list "254easy.ml" 5 70 94 "254easy.ml" 5 70 98
+)
+"254easy.ml" 7 121 127 "254easy.ml" 7 121 129
+type(
+  'a list
+)
+"254easy.ml" 7 121 133 "254easy.ml" 7 121 135
+type(
+  int list
+)
+"254easy.ml" 8 136 142 "254easy.ml" 8 136 144
+type(
+  'a
+)
+ident(
+  def hd "254easy.ml" 8 136 154 "254easy.ml" 8 136 177
+)
+"254easy.ml" 8 136 148 "254easy.ml" 8 136 150
+type(
+  'a list
+)
+ident(
+  def tl "254easy.ml" 8 136 154 "254easy.ml" 8 136 177
+)
+"254easy.ml" 8 136 142 "254easy.ml" 8 136 150
+type(
+  'a list
+)
+"254easy.ml" 8 136 154 "254easy.ml" 8 136 155
+type(
+  int
+)
+"254easy.ml" 8 136 159 "254easy.ml" 8 136 174
+type(
+  'a list -> int list
+)
+ident(
+  int_ref create_switches "254easy.ml" 5 70 78 "254easy.ml" 5 70 93
+)
+"254easy.ml" 8 136 175 "254easy.ml" 8 136 177
+type(
+  'a list
+)
+ident(
+  int_ref tl "254easy.ml" 8 136 148 "254easy.ml" 8 136 150
+)
+"254easy.ml" 8 136 159 "254easy.ml" 8 136 177
+type(
+  int list
+)
+"254easy.ml" 8 136 154 "254easy.ml" 8 136 177
+type(
+  int list
+)
+"254easy.ml" 6 101 105 "254easy.ml" 8 136 177
+type(
+  int list
+)
+"254easy.ml" 5 70 94 "254easy.ml" 8 136 177
+type(
+  'a list -> int list
+)
+"254easy.ml" 10 179 183 "254easy.ml" 10 179 185
+type(
+  unit
+)
+"254easy.ml" 11 188 192 "254easy.ml" 11 188 198
+type(
+  ('_a -> '_b, out_channel, unit) format -> '_a -> '_b
+)
+ident(
+  ext_ref Core.Std.printf
+)
